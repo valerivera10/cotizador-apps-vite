@@ -12,7 +12,7 @@ npm i && npm run dev
 }
 ```
 
-*Laura Vanesa Herrera Rivera*
-*Alfredo Brandon Camargo Florez*
+*Laura Valentina Herrera Rivera*
+*Alfonso Brandon Camargo Florez*
 *Juan Diego Rojas Aguilar*
 
