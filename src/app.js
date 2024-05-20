@@ -1,5 +1,6 @@
 import { LitElement, html } from "lit";
 import Question from "./components/Question";
+import Information from "./components/Information";
 
 class App extends LitElement {
     constructor() {
@@ -11,6 +12,7 @@ class App extends LitElement {
         return html`
             <fragment>
                 <question-element></question-element>
+                <information-element />
             </fragment>
         `
     }
